@@ -140,7 +140,7 @@ const userEmailTemplate = `
     <tr>
       <td style="padding: 24px 0; text-align: center; background-color: #f1f5f9;">
         <p style="color: #64748b; margin: 0 0 8px 0; font-size: 14px;">
-          © ${new Date().getFullYear()} Your Company Name. All rights reserved.
+          © ${new Date().getFullYear()} Naveen_ak. All rights reserved.
         </p>
         <p style="color: #64748b; margin: 0; font-size: 14px;">
           This email was sent in response to your inquiry. Please add us to your safe senders list.
